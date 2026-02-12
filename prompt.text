@@ -1,0 +1,33 @@
+1. index.php: https://raw.githubusercontent.com/briancode23/parkify/refs/heads/master/index.php
+2. core/Controller.php: https://raw.githubusercontent.com/briancode23/parkify/refs/heads/master/core/Controller.php
+3. core/Database.php: https://github.com/briancode23/parkify/raw/refs/heads/master/core/Database.php
+4. config/config.php: https://github.com/briancode23/parkify/raw/refs/heads/master/config/config.php
+5. app/controllers/AdminController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/AdminController.php
+6. app/controllers/AreaController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/AreaController.php
+7. app/controllers/AuthController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/AuthController.php
+8. app/controllers/DashboardController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/DashboardController.php
+9. app/controllers/ErrorController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/ErrorController.php
+10. app/controllers/HomeController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/HomeController.php
+11. app/controllers/LogController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/LogController.php
+12. app/controllers/ParkirController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/ParkirController.php
+13. app/controllers/PetugasController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/PetugasController.php
+14. app/controllers/UserController.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/controllers/UserController.php
+15. app/models/Area.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/models/Area.php
+16. app/models/Log.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/models/Log.php
+17. app/models/Parkir.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/models/Parkir.php
+18. app/models/User.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/models/User.php
+19. app/views/area/editArea.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/area/editArea.php [kosong]
+20. app/views/area/tambahArea.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/area/tambahArea.php [kosong]
+21. app/views/auth/login.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/auth/login.php
+22. app/views/auth/register.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/auth/register.php
+23. app/views/dashboard/admin/daftarUser.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/admin/daftarUser.php
+24. app/views/dashboard/admin/index.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/admin/index.php
+25. app/views/dashboard/admin/area/editArea.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/admin/area/editArea.php [kosong]
+26 app/views/dashboard/admin/area/tambahArea.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/admin/area/tambahArea.php [kosong]
+27. app/views/dashboard/admin/log/aktivitas.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/admin/log/aktivitas.php
+28. app/views/dashboard/owner/index.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/owner/index.php
+29. app/views/dashboard/petugas/proses/index.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/petugas/proses/index.php
+30. app/views/dashboard/petugas/proses/keluar.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/petugas/proses/keluar.php
+31. app/views/dashboard/petugas/proses/masuk.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/petugas/proses/masuk.php
+32. app/views/dashboard/petugas/index.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/dashboard/petugas/index.php
+33. app/views/home.php: https://github.com/briancode23/parkify/raw/refs/heads/master/app/views/home.php
